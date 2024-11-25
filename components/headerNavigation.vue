@@ -113,8 +113,9 @@ border:none;
 background-color: transparent;
 border:1PX SOLID black;
 border-radius: 10px;
-    font-size: 25px;
-    width:60% ;
+    font-size: 23px;
+    width:65% ;
+    padding:3px;
    
   }
 }

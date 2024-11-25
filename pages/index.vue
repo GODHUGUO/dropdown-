@@ -131,6 +131,7 @@ img{
 .container{
   flex-direction: column-reverse;
   align-items: center;
+  gap:70px;
 margin-top: 25px;
 
 }
